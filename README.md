@@ -13,3 +13,5 @@ You can run the examples with
 cargo run --examples [example_name]
 ```
 you may omit the `example_name` if you wish to execute all examples
+
+PD: original version of this repository (https://github.com/PatatasDelPapa/RustSim/).
